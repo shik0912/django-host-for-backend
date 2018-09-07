@@ -1,0 +1,1 @@
+C:\shik.Backend\django-host-for-backend\host>python manage.py shik [projectname]
